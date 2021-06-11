@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Clion-282C34?logo=clion"/>
 
-<img src="https://img.shields.io/badge/Intellij IDEA-282C34?logo=intellij-idea"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intellij-idea"/>
 
 <img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm"/>
 
