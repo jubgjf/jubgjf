@@ -4,17 +4,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-555555?logo=c&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=gray&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux C-555555?logo=c&logoColor=white&style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/python-3572A5?logo=python&logoColor=white&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-282C34?logo=react&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/WSL Arch Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge"/>
 
 </p>
 
