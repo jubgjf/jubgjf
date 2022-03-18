@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubgjf&layout=compact&theme=nord&exclude_repo=github-readme-stats,jubgjf.github.io&locale=cn&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubgjf&layout=compact&theme=nord&exclude_repo=github-readme-stats,jubgjf.github.io&locale=cn&hide_border=true&hide=tex"/>
 </p>
 
 ## 📖 Currently learning:
